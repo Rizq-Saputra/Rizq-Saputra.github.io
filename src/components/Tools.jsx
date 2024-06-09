@@ -1,3 +1,5 @@
+import React from 'react';
+
 function Tools() {
     return (
         <section data-aos="fade-up" className="mt-64">

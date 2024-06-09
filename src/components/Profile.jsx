@@ -1,6 +1,6 @@
 import { IoMdMail } from 'react-icons/io';
 import { FaLinkedin } from 'react-icons/fa';
-
+import React from 'react';
 function Profile() {
     return (
         <section

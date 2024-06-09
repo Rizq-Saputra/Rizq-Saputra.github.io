@@ -1,5 +1,5 @@
 import { FaGithub, FaArrowRight } from "react-icons/fa";
-
+import React from 'react';
 function Project() {
     return(
         <section id="project" className="mt-16 md:mt-64">

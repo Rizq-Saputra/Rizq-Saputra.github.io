@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { useState } from "react";
 import { Link as ScrollLink, animateScroll as scroll } from "react-scroll";
-
+import React from 'react';
 function Navigation() {
   const [isOpen, setIsOpen] = useState(false);
 
